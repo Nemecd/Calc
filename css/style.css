@@ -1,0 +1,20 @@
+.calcu{
+    width: 400px;
+    margin: auto;
+    background-color: chocolate;
+    color: darkgreen;
+    border-radius: 5px;
+}
+.play{
+    height: 50px;
+    align-content: center;
+    background-color: darkgrey;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.btn{
+    height: 100px;
+    border: 1px solid gray;
+    padding: 10px;
+}
